@@ -1,0 +1,22 @@
+﻿{
+  "BackgroundImageAbsolutePath": "C:\\Users\\86413\\Desktop\\图片\\LOL英雄联盟九尾妖狐 KDA ALL OUT 同人 阿狸4K壁纸3840x2160_彼岸图网 (1).jpg",
+  "BackgroundImagesDirectoryAbsolutePath": "C:\\Users\\86413\\Desktop\\图片",
+  "ExpandToIDE": true,
+  "Extensions": ".png, .jpg, .gif, .bmp",
+  "ImageBackgroundType": 0,
+  "ImageFadeAnimationInterval": "PT0S",
+  "ImageStretch": 2,
+  "IsLimitToMainlyEditorWindow": false,
+  "LoopSlideshow": true,
+  "MaxHeight": 0,
+  "MaxWidth": 0,
+  "Opacity": 0.35,
+  "PositionHorizon": 2,
+  "PositionVertical": 2,
+  "ShuffleSlideshow": true,
+  "SoftEdgeX": 10,
+  "SoftEdgeY": 10,
+  "UpdateImageInterval": "PT10S",
+  "ViewBoxPointX": 0,
+  "ViewBoxPointY": 0
+}
