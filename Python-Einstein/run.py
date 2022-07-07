@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # author: zcc
-# date: 2021/5/12
+# date: 2021/7/12
 import os
 import time
 import tkinter as tk
@@ -145,7 +145,7 @@ class Game(tk.Tk):  # TODO 增加先手
         self.cv.bind("<Button-1>", self.on_left_click)  # 左键点击事件
         self.cv.bind("<Button-3>", self.on_right_click)  # 右键点击事件
 
-        tk.Label(self, text="Author: MaoLongLong").pack(side=tk.BOTTOM)
+        tk.Label(self, text="Author: Zcc").pack(side=tk.BOTTOM)
 
     def print_chess(self, i, j, color, key, line='grey'):
         x1, y1 = j * 88 + 30, i * 88 + 30
