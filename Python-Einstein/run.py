@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# author: MaoLongLong
-# date: 2019/9/12
+# author: zcc
+# date: 2021/5/12
 import os
 import time
 import tkinter as tk
